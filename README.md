@@ -1,2 +1,2 @@
-# chatgpt-github-agent
-chat gpt api for github
+# GitHub Agent API
+This is the API for ChatGPT GitHub agent.
